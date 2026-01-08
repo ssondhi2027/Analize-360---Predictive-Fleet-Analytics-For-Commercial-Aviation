@@ -125,14 +125,6 @@ The platform follows a **four-layer analytics framework**—Descriptive, Diagnos
  ┃ ┣ 📂 processed
  ┃ ┗ 📂 reports
  ┣ 📂 notebooks
- ┃ ┣ data_preprocessing.ipynb
- ┃ ┣ feature_engineering.ipynb
- ┃ ┣ rul_prediction_lstm.ipynb
- ┃ ┣ aog_risk_model.ipynb
- ┃ ┗ maintenance_optimization.ipynb
- ┣ 📂 dashboards
- ┣ 📂 docs
- ┃ ┗ project_documentation.pdf
  ┣ 📜 README.md
 ```
 
